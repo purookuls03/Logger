@@ -4,7 +4,7 @@ Project_name : Logger
 
 2. As of Now, This project is only compitable with Windows OS, mingw and visual studio code enviourment. 
 
-3. This logger library wil expose three functions to the user 
+3. This logger library will expose three functions to the user 
 	a. init("C:\\Users\\Dell\\Documents\\GitHub\\DBInserter\\Config\\Logger.ini");  
    		This api should be called starting of the project, so that logger can be initilized properly before using logger api given below. This init api will require logger configuration file path. This configuration file should have
 		below parameters. Sample configuration file(Logger.ini) having parameters description is given under Conf folder.
